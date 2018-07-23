@@ -1,0 +1,42 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client" x:Class="Client.MainWindow"
+        mc:Ignorable="d"
+        Title="Autorization" Height="552.27" Width="604.698" Background="#FFDED2E4">
+	<Grid Margin="98,120,98,230" Background="#FFE9E6EE">
+		<TextBox x:Name="ipBox" HorizontalAlignment="Left" Height="24" Margin="256,13,0,0" TextWrapping="Wrap" Text="127.0.0.1" VerticalAlignment="Top" Width="125" Background="#FFCEACDE" Foreground="AliceBlue" FontFamily="Verdana" TextAlignment="Center"/>
+		<Button Content="Connect" HorizontalAlignment="Left" Height="33" Margin="220,92,0,0" VerticalAlignment="Top" Width="74" RenderTransformOrigin="-0.002,0.779" Click="connect_Click" FontFamily="Verdana">
+			<Button.Background>
+				<LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+					<GradientStop Color="#FFF3F3F3" Offset="0"/>
+					<GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+					<GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+					<GradientStop Color="#FFCEACDE" Offset="1"/>
+				</LinearGradientBrush>
+			</Button.Background>
+		</Button>
+		<Label Content="IP" HorizontalAlignment="Left" Height="24" Margin="236,12,0,0" VerticalAlignment="Top" Width="31" FontFamily="Verdana"/>
+		<TextBox x:Name="nick" HorizontalAlignment="Left" Height="24" Margin="65,13,0,0" TextWrapping="Wrap" Text="Sveta" Foreground="{Binding ElementName=chooser, Path=SelectedColor}" VerticalAlignment="Top" Width="125" Background="#FFCEACDE" FontFamily="Verdana" TextAlignment="Center"/>
+		<Label Content="Nick" HorizontalAlignment="Left" Height="24" Margin="28,13,0,0" VerticalAlignment="Top" Width="40" FontFamily="Verdana">
+			<Label.Background>
+				<ImageBrush/>
+			</Label.Background>
+		</Label>
+		<local:ChooserColor x:Name="chooser" HorizontalAlignment="Left" Height="31" Margin="65,42,0,0" VerticalAlignment="Top" Width="125" FontFamily="Verdana"/>
+		<Button x:Name="cancelButton" Content="Cancel" HorizontalAlignment="Left" Margin="116,93,0,0" VerticalAlignment="Top" Width="74" Height="33" FontFamily="Verdana" Click="close">
+			<Button.Background>
+				<LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+					<GradientStop Color="#FFF3F3F3" Offset="0"/>
+					<GradientStop Color="#FFEBEBEB" Offset="0.5"/>
+					<GradientStop Color="#FFDDDDDD" Offset="0.5"/>
+					<GradientStop Color="#FFCEACDE" Offset="1"/>
+				</LinearGradientBrush>
+			</Button.Background>
+		</Button>
+		<TextBox x:Name="portBox" HorizontalAlignment="Left" Height="23" Margin="277,43,0,0" TextWrapping="Wrap" Text="8888" VerticalAlignment="Top" Width="104" FontFamily="Verdana" Foreground="AliceBlue" TextAlignment="Center" Background="#FFCEACDE"/>
+		<Label Content="Port" HorizontalAlignment="Left" Margin="245,42,0,0" VerticalAlignment="Top" FontFamily="Verdana"/>
+	</Grid>
+</Window>

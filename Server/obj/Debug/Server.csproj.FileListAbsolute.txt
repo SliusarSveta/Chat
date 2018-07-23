@@ -1,0 +1,34 @@
+c:\users\hp\documents\visual studio 2017\Projects\Server\Server\bin\Debug\Server.exe.config
+c:\users\hp\documents\visual studio 2017\Projects\Server\Server\bin\Debug\Server.exe
+c:\users\hp\documents\visual studio 2017\Projects\Server\Server\bin\Debug\Server.pdb
+c:\users\hp\documents\visual studio 2017\Projects\Server\Server\obj\Debug\MainWindow.g.cs
+c:\users\hp\documents\visual studio 2017\Projects\Server\Server\obj\Debug\App.g.cs
+c:\users\hp\documents\visual studio 2017\Projects\Server\Server\obj\Debug\Server_MarkupCompile.cache
+c:\users\hp\documents\visual studio 2017\Projects\Server\Server\obj\Debug\Server_MarkupCompile.lref
+c:\users\hp\documents\visual studio 2017\Projects\Server\Server\obj\Debug\MainWindow.baml
+c:\users\hp\documents\visual studio 2017\Projects\Server\Server\obj\Debug\Server.g.resources
+c:\users\hp\documents\visual studio 2017\Projects\Server\Server\obj\Debug\Server.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2017\Projects\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2017\Projects\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+c:\users\hp\documents\visual studio 2017\Projects\Server\Server\obj\Debug\Server.exe
+c:\users\hp\documents\visual studio 2017\Projects\Server\Server\obj\Debug\Server.pdb
+C:\Users\hp\Documents\Visual Studio 2017\Projects\Server\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hp\Documents\Visual Studio 2017\Projects\Server\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hp\Documents\Visual Studio 2017\Projects\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Server\Server\bin\Debug\Server.exe.config
+D:\Server\Server\bin\Debug\Server.exe
+D:\Server\Server\bin\Debug\Server.pdb
+D:\Server\Server\bin\Debug\Newtonsoft.Json.dll
+D:\Server\Server\bin\Debug\Newtonsoft.Json.xml
+D:\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Server\Server\obj\Debug\MainWindow.g.cs
+D:\Server\Server\obj\Debug\App.g.cs
+D:\Server\Server\obj\Debug\Server_MarkupCompile.cache
+D:\Server\Server\obj\Debug\Server_MarkupCompile.lref
+D:\Server\Server\obj\Debug\MainWindow.baml
+D:\Server\Server\obj\Debug\Server.g.resources
+D:\Server\Server\obj\Debug\Server.Properties.Resources.resources
+D:\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Server\Server\obj\Debug\Server.exe
+D:\Server\Server\obj\Debug\Server.pdb
